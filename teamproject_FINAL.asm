@@ -19,6 +19,7 @@
 # - This is a game where you control a rhino character,
 # 	avoiding red pixels and collecting all the green pixels to open the exit top right, which brings you to the next level
 # - Two playable levels
+# - When user wins, number of deaths displayed and prompted to run game again
 # - User is informed about program and prompted at start of program
 # - When "killed" by red enemy, level completely resets
 # - Controls: wasd for movement, q to quit
